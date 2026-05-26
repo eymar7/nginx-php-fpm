@@ -1,7 +1,7 @@
 # nginx-php-fpm
 Documentación de instalación de NGINX y PHP-FPM
 
-
+## Escuela
 TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO
 
 ## Materia
